@@ -40,7 +40,7 @@
 
 3.把node_modules的bin目录放到系统的Path路径里
 
-          C:\Program Files (x86)\Appium\node_modules\.bin
+     C:\Program Files (x86)\Appium\node_modules\.bin
 
 4.检查appium所需的环境是否OK：
 
